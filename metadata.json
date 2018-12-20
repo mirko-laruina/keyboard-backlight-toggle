@@ -1,0 +1,1 @@
+{"name": "keyboard-backlight-toggle", "description": "Just toggles keyboard backlight (when using scroll lock) on and off", "uuid": "keyboard-backlight-toggle@mirko-laruina", "shell-version": ["3.30.2"]}
